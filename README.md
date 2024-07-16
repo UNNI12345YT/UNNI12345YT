@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unni12345yt" alt="unni12345yt" /></a> </p>
 
-- 🔭 I’m currently working on [YOUTUBE](https://www.youtube.com/@82kpro)
+- 🔭 I’m currently working on [YOUTUBE](https://t.me/NATASHA345BOT)
 
 - 🤝 I’m looking for help with **A MALAYALI WHO KNOWN PYTHON**
 
